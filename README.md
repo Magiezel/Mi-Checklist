@@ -11,7 +11,7 @@ Este es un proyecto personal de motivación diaria. Te permite:
 - Guardar tu progreso en el navegador con `localStorage`
 - Cambiar de mes y mantener tus datos separados por mes
 
-🌐 [Ver la demo en GitHub Pages](https://tuusuario.github.io/mi-checklist)
+🌐 [Ver la demo en GitHub Pages](https://magiezel.github.io/Mi-Checklist/)
 
 ## ¿Cómo usar?
 
